@@ -10,7 +10,7 @@
 Next steps
 
   
-<code>rm -rf mydirectoty</code>.
+`rm -rf mydirectoty`
 
   
 
