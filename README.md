@@ -8,10 +8,9 @@
     touch file code
 
 Next steps
-code 
-...
-  rm -rf mydirectoty
-...
+
+  
+<code>rm -rf mydirectoty</code>.
 
   
 
