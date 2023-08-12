@@ -3,5 +3,11 @@
 
 ## My understanding
 
-	`mkdir mydirectory
-    touch file`
+	mkdir mydirectory
+ 
+    touch file code
+
+Next steps
+code
+  rm -rf mydirectoty
+
